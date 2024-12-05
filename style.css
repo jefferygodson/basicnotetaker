@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.header{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.input{
+    width: 60%;
+    padding: 15px;
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;   
+}
+.display{
+    background-color: black;
+    color: white;
+    height: 375px;
+}
+
+
